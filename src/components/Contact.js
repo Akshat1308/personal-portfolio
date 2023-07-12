@@ -106,11 +106,12 @@ export const Contact = () => {
                   className={isVisible ? "animate__animated animate__zoomIn" : ""}
                   src={contactImg}
                   alt="Contact Us"
-                  style={{ height: "500px", width: "500px" }}
+                  style={{ height: "500px", width: "500px", maxWidth: "100%", height: "auto" }}
                 />
               )}
             </TrackVisibility>
           </Col>
+
           <Col size={12} md={6}>
             <TrackVisibility>
               {({ isVisible }) => (
