@@ -62,7 +62,7 @@ export const Banner = () => {
                   {/* <span className="tagline">Welcome to my Portfolio</span> */}
                   <h1>{`Hi! I'm Akshat`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Student", "Programmer"]'><span className="wrap">{text}</span></span></h1>
                   <p>Motivated CSE student with strong programming skills in C++, C, Python, and Java. Proficient in frontend technologies such as HTML, CSS, JavaScript, ReactJs, and Bootstrap. Experienced in web development using React.js and Node.js. Knowledgeable in deep learning, specifically CNN. Seeking challenging placements to apply and expand my skills</p>
-                  <a href="https://drive.google.com/file/d/1PmkQdWUD9LHtado0WgnPAMicRuzkjfz0/view?usp=sharing"><button type="submit"><span>Download resume</span></button></a>
+                  <a href="https://drive.google.com/file/d/1m7xsVLAiPAj5lwdYYjfypolzS6dCXW8j/view?usp=sharing"><button type="submit"><span>Download resume</span></button></a>
                 </div>}
             </TrackVisibility>
           </Col>
